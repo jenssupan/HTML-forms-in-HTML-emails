@@ -16,23 +16,23 @@ Desktop
 
 	<tr>
 		<td>Apple Mail</td>
-		<td align=center bgcolor="#15e343">✔</td>
-		<td align=center bgcolor="#15e343">✔</td>
+		<td align=center>✔</td>
+		<td align=center>✔</td>
 	</tr>
 	<tr>
 		<td>Sparrow</td>
-		<td align=center bgcolor=green>✔</td>
-		<td align=center bgcolor=green>✔</td>
+		<td align=center>✔</td>
+		<td align=center>✔</td>
 	</tr>
 	<tr>
 		<td>Airmail</td>
-		<td align=center bgcolor=green>✔</td>
-		<td align=center bgcolor=green>✔</td>
+		<td align=center>✔</td>
+		<td align=center>✔</td>
 	</tr>
 	<tr>
 		<td>Windows Live Mail</td>
-		<td align=center bgcolor=green>✔</td>
-		<td align=center bgcolor=green>✔</td>
+		<td align=center>✔</td>
+		<td align=center>✔</td>
 	</tr>
 
 	<tr>
@@ -60,18 +60,18 @@ Mobile
 
 	<tr>
 		<td>iOS Mail</td>
-		<td align=center bgcolor=green>✔</td>
-		<td align=center bgcolor=green>✔</td>
+		<td align=center>✔</td>
+		<td align=center>✔</td>
 	</tr>
 	<tr>
 		<td>iOS Gmail</td>
-		<td align=center bgcolor=green>✔</td>
-		<td align=center bgcolor=green>✔</td>
+		<td align=center>✔</td>
+		<td align=center>✔</td>
 	</tr>
 	<tr>
 		<td>Android Gmail</td>
-		<td align=center bgcolor=green>✔</td>
-		<td align=center bgcolor=green>✔</td>
+		<td align=center>✔</td>
+		<td align=center>✔</td>
 	</tr>
 </table>
 
@@ -88,18 +88,18 @@ Web
 
 	<tr>
 		<td>Gmail</td>
-		<td align=center bgcolor=green>✔</td>
-		<td align=center bgcolor=green>✔</td>
+		<td align=center>✔</td>
+		<td align=center>✔</td>
 	</tr>
 	<tr>
 		<td>Yahoo Mail</td>
-		<td align=center bgcolor=green>✔</td>
-		<td align=center bgcolor=green>✔</td>
+		<td align=center>✔</td>
+		<td align=center>✔</td>
 	</tr>
 
 	<tr>
 		<td>Outlook/Live</td>
-		<td align=center bgcolor=green>✔</td>
+		<td align=center>✔</td>
 		<td align=center>×</td>
 	</tr>
 	<tr>

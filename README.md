@@ -16,23 +16,23 @@ Desktop
 
 	<tr>
 		<td>Apple Mail</td>
-		<td style="text-align:center; background:lightgreen">✔</td>
-		<td style="text-align:center; background:lightgreen">✔</td>
+		<td align=center bgcolor=lightgreen>✔</td>
+		<td align=center bgcolor=lightgreen>✔</td>
 	</tr>
 	<tr>
 		<td>Sparrow</td>
-		<td style="text-align:center; background:lightgreen">✔</td>
-		<td style="text-align:center; background:lightgreen">✔</td>
+		<td align=center bgcolor=lightgreen>✔</td>
+		<td align=center bgcolor=lightgreen>✔</td>
 	</tr>
 	<tr>
 		<td>Airmail</td>
-		<td style="text-align:center; background:lightgreen">✔</td>
-		<td style="text-align:center; background:lightgreen">✔</td>
+		<td align=center bgcolor=lightgreen>✔</td>
+		<td align=center bgcolor=lightgreen>✔</td>
 	</tr>
 	<tr>
 		<td>Windows Live Mail</td>
-		<td style="text-align:center; background:lightgreen">✔</td>
-		<td style="text-align:center; background:lightgreen">✔</td>
+		<td align=center bgcolor=lightgreen>✔</td>
+		<td align=center bgcolor=lightgreen>✔</td>
 	</tr>
 
 	<tr>
@@ -60,18 +60,18 @@ Mobile
 
 	<tr>
 		<td>iOS Mail</td>
-		<td style="text-align:center; background:lightgreen">✔</td>
-		<td style="text-align:center; background:lightgreen">✔</td>
+		<td align=center bgcolor=lightgreen>✔</td>
+		<td align=center bgcolor=lightgreen>✔</td>
 	</tr>
 	<tr>
 		<td>iOS Gmail</td>
-		<td style="text-align:center; background:lightgreen">✔</td>
-		<td style="text-align:center; background:lightgreen">✔</td>
+		<td align=center bgcolor=lightgreen>✔</td>
+		<td align=center bgcolor=lightgreen>✔</td>
 	</tr>
 	<tr>
 		<td>Android Gmail</td>
-		<td style="text-align:center; background:lightgreen">✔</td>
-		<td style="text-align:center; background:lightgreen">✔</td>
+		<td align=center bgcolor=lightgreen>✔</td>
+		<td align=center bgcolor=lightgreen>✔</td>
 	</tr>
 </table>
 
@@ -88,18 +88,18 @@ Web
 
 	<tr>
 		<td>Gmail</td>
-		<td style="text-align:center; background:lightgreen">✔</td>
-		<td style="text-align:center; background:lightgreen">✔</td>
+		<td align=center bgcolor=lightgreen>✔</td>
+		<td align=center bgcolor=lightgreen>✔</td>
 	</tr>
 	<tr>
 		<td>Yahoo Mail</td>
-		<td style="text-align:center; background:lightgreen">✔</td>
-		<td style="text-align:center; background:lightgreen">✔</td>
+		<td align=center bgcolor=lightgreen>✔</td>
+		<td align=center bgcolor=lightgreen>✔</td>
 	</tr>
 
 	<tr>
 		<td>Outlook/Live</td>
-		<td style="text-align:center; background:lightgreen">✔</td>
+		<td align=center bgcolor=lightgreen>✔</td>
 		<td align=center>×</td>
 	</tr>
 	<tr>

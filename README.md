@@ -1,17 +1,3 @@
-<style>
-th {
-    width: 90px
-}
-th:first-child {
-    width: 180px;
-}
-td:not(:first-child) {
-    text-align: center;
-}
-.green {
-    background: lightgreen;
-}
-</style>
 
 The current state of HTML forms in HTML emails
 ================================
@@ -23,41 +9,41 @@ Desktop
 
 <table>
 	<tr>
-		<th>App</th>
-		<th>Displayed</th>
-		<th>Functional</th>
+		<th width=180>App</th>
+		<th width=90>Displayed</th>
+		<th width=90>Functional</th>
 	</tr>
 
 	<tr>
 		<td>Apple Mail</td>
-		<td class="green">✔</td>
-		<td style="background:lightgreen">✔</td>
+		<td style="text-align:center; background:lightgreen">✔</td>
+		<td style="text-align:center; background:lightgreen">✔</td>
 	</tr>
 	<tr>
 		<td>Sparrow</td>
-		<td class="green">✔</td>
-		<td class="green">✔</td>
+		<td style="text-align:center; background:lightgreen">✔</td>
+		<td style="text-align:center; background:lightgreen">✔</td>
 	</tr>
 	<tr>
 		<td>Airmail</td>
-		<td class="green">✔</td>
-		<td class="green">✔</td>
+		<td style="text-align:center; background:lightgreen">✔</td>
+		<td style="text-align:center; background:lightgreen">✔</td>
 	</tr>
 	<tr>
 		<td>Windows Live Mail</td>
-		<td class="green">✔</td>
-		<td class="green">✔</td>
+		<td style="text-align:center; background:lightgreen">✔</td>
+		<td style="text-align:center; background:lightgreen">✔</td>
 	</tr>
 
 	<tr>
 		<td>Outlook 2007</td>
-		<td>×</td>
-		<td>×</td>
+		<td align=center>×</td>
+		<td align=center>×</td>
 	</tr>
 	<tr>
 		<td>Outlook 2010</td>
-		<td>×</td>
-		<td>×</td>
+		<td align=center>×</td>
+		<td align=center>×</td>
 	</tr>
 </table>
 
@@ -67,25 +53,25 @@ Mobile
 
 <table>
 	<tr>
-		<th>App</th>
-		<th>Displayed</th>
-		<th>Functional</th>
+		<th width=180>App</th>
+		<th width=90>Displayed</th>
+		<th width=90>Functional</th>
 	</tr>
 
 	<tr>
 		<td>iOS Mail</td>
-		<td class="green">✔</td>
-		<td class="green">✔</td>
+		<td style="text-align:center; background:lightgreen">✔</td>
+		<td style="text-align:center; background:lightgreen">✔</td>
 	</tr>
 	<tr>
 		<td>iOS Gmail</td>
-		<td class="green">✔</td>
-		<td class="green">✔</td>
+		<td style="text-align:center; background:lightgreen">✔</td>
+		<td style="text-align:center; background:lightgreen">✔</td>
 	</tr>
 	<tr>
 		<td>Android Gmail</td>
-		<td class="green">✔</td>
-		<td class="green">✔</td>
+		<td style="text-align:center; background:lightgreen">✔</td>
+		<td style="text-align:center; background:lightgreen">✔</td>
 	</tr>
 </table>
 
@@ -95,31 +81,31 @@ Web
 
 <table>
 	<tr>
-		<th>Service</th>
-		<th>Displayed</th>
-		<th>Functional</th>
+		<th width=180>Service</th>
+		<th width=90>Displayed</th>
+		<th width=90>Functional</th>
 	</tr>
 
 	<tr>
 		<td>Gmail</td>
-		<td class="green">✔</td>
-		<td class="green">✔</td>
+		<td style="text-align:center; background:lightgreen">✔</td>
+		<td style="text-align:center; background:lightgreen">✔</td>
 	</tr>
 	<tr>
 		<td>Yahoo Mail</td>
-		<td class="green">✔</td>
-		<td class="green">✔</td>
+		<td style="text-align:center; background:lightgreen">✔</td>
+		<td style="text-align:center; background:lightgreen">✔</td>
 	</tr>
 
 	<tr>
 		<td>Outlook/Live</td>
-		<td class="green">✔</td>
-		<td>×</td>
+		<td style="text-align:center; background:lightgreen">✔</td>
+		<td align=center>×</td>
 	</tr>
 	<tr>
 		<td>Web.de</td>
-		<td>×</td>
-		<td>×</td>
+		<td align=center>×</td>
+		<td align=center>×</td>
 	</tr>
 </table>
 

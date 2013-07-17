@@ -16,8 +16,8 @@ Desktop
 
 	<tr>
 		<td>Apple Mail</td>
-		<td align=center bgcolor=green>✔</td>
-		<td align=center bgcolor=green>✔</td>
+		<td align=center bgcolor="#15e343">✔</td>
+		<td align=center bgcolor="#15e343">✔</td>
 	</tr>
 	<tr>
 		<td>Sparrow</td>

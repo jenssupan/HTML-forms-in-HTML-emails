@@ -96,6 +96,11 @@ Web
 		<td align=center>✔</td>
 		<td align=center>✔</td>
 	</tr>
+	<tr>
+		<td>iCloud Mail</td>
+		<td align=center>✔</td>
+		<td align=center>✔</td>
+	</tr>
 
 	<tr>
 		<td>Outlook/Live</td>

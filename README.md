@@ -64,6 +64,11 @@ Mobile
 		<td align=center>✔</td>
 	</tr>
 	<tr>
+		<td>K-9 Mail</td>
+		<td align=center>✔</td>
+		<td align=center>✔</td>
+	</tr>
+	<tr>
 		<td>iOS Gmail</td>
 		<td align=center>✔</td>
 		<td align=center>✔</td>
@@ -71,7 +76,7 @@ Mobile
 	<tr>
 		<td>Android Gmail</td>
 		<td align=center>✔</td>
-		<td align=center>✔</td>
+		<td align=center>×</td>
 	</tr>
 </table>
 
